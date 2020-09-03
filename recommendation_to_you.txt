@@ -1,0 +1,11 @@
+     movieId                       title
+16        21           Get Shorty (1995)
+58        78  Crossing Guard, The (1995)
+184      241                Fluke (1995)
+138      186          Nine Months (1995)
+532      761         Phantom, The (1996)
+150      201         Three Wishes (1995)
+164      216        Billy Madison (1995)
+231      299               Priest (1994)
+106      149              Amateur (1994)
+535      765                 Jack (1996)
